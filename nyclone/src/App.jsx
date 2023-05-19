@@ -27,6 +27,11 @@ function App() {
           </ul>
         </nav>
       </header>
+      <div className='banner-container'>
+        <section>
+          <span>Support The New Yorker's Award-winning journalism.</span> 
+        </section>
+      </div>
     </>
   )
 }
