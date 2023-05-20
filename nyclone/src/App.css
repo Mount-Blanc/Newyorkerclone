@@ -37,3 +37,10 @@
   border-top: 1px solid grey;
 
 }
+.puzzles-container {
+  display: flex;
+  justify-content: center;
+}
+.puzzles {
+  padding-inline:40px;
+}

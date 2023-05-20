@@ -69,6 +69,26 @@ function App() {
 <div className='pandg'>
 <h2>Puzzles & Games</h2>
 </div>
+<div className='puzzles-container'>
+  <div className='puzzles'>
+    <span>image</span>
+    <h2>News Title</h2>
+    <p>info</p>
+  </div>
+  <div className='puzzles'>
+    <span>image</span>
+    <h2>News Title</h2>
+    <p>info</p>
+  </div> <div className='puzzles'>
+    <span>image</span>
+    <h2>News Title</h2>
+    <p>info</p>
+  </div> <div className='puzzles'>
+    <span>image</span>
+    <h2>News Title</h2>
+    <p>info</p>
+  </div>
+</div>
     </>
   )
 }
