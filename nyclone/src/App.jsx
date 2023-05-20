@@ -90,7 +90,30 @@ function App() {
   </div>
 </div>
 
-<footer>footer</footer>
+<footer>
+  <div>
+    <div>
+      <a href=''><span>The New Yorker</span></a>
+    </div>
+    <nav>
+      <p>Sections</p>
+      <ul className='sections-list'>
+        <li>News</li>
+        <li>Books & Culture</li>
+        <li>Fiction & Poetry</li>
+        <li>Humor & Cartoons</li>
+        <li>Magazine</li>
+        <li>Crossword</li>
+        <li>Video</li>
+        <li>Podcasts</li>
+        <li>Archive</li>
+        <li>Goings On</li>
+
+      </ul>
+    </nav>
+  </div>
+  <button>Your Privacy Choices</button>
+</footer>
     </>
   )
 }
