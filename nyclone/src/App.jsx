@@ -32,6 +32,35 @@ function App() {
           <span>Support The New Yorker's Award-winning journalism.</span> 
         </section>
       </div>
+      <div>
+        <div>
+          <span>image</span>
+          <h2>News Title</h2>
+          <p>News info</p>
+          </div>
+        <div>
+        <span>image</span>
+        <h2>News Title</h2>
+        <p>News info</p>
+
+
+</div>
+        <div>
+        <span>image</span>
+        <h2>News Title</h2>
+        <p>News info</p>
+
+
+</div>
+        <div>
+        <span>image</span>
+        <h2>News Title</h2>
+        <p>News info</p>
+
+
+</div>
+
+      </div>
     </>
   )
 }
