@@ -32,12 +32,24 @@ function App() {
           <span>Support The New Yorker's Award-winning journalism.</span> 
         </section>
       </div>
-      <div>
-        <div>
+
+        <div className='news-container-container'>
+          <div className='news-container'>
+        <div >
           <span>image</span>
           <h2>News Title</h2>
           <p>News info</p>
-          </div>
+        <div>
+        <span>image</span>
+        <h2>News Title</h2>
+        <p>News info</p>
+    </div>      
+        </div>
+  
+  </div>
+
+
+  <div className='news-container'>
         <div>
         <span>image</span>
         <h2>News Title</h2>
@@ -52,15 +64,11 @@ function App() {
 
 
 </div>
-        <div>
-        <span>image</span>
-        <h2>News Title</h2>
-        <p>News info</p>
-
-
 </div>
-
-      </div>
+</div>
+<div className='pandg'>
+<h2>Puzzles & Games</h2>
+</div>
     </>
   )
 }

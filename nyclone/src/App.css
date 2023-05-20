@@ -23,3 +23,17 @@
   border-bottom:1px solid grey;
   padding:30px;
 }
+.news-container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+.news-container-container {
+  display: flex;
+  justify-content: center;
+}
+.pandg {
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+
+}
