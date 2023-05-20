@@ -111,6 +111,21 @@ function App() {
 
       </ul>
     </nav>
+    <nav>
+      <p>More</p>
+      <ul className='sections-list'>
+        <li>Customer Care</li>
+        <li>Shop the New Yorker</li>
+        <li>Buy Covers and Cartoons</li>
+        <li>Conde Nast Store</li>
+        <li>Digital Access</li>
+        <li>Newsletters</li>
+        <li>Jigsaw Puzzle</li>
+        <li>RSS</li>
+
+
+      </ul>
+    </nav>
   </div>
   <button>Your Privacy Choices</button>
 </footer>
