@@ -89,6 +89,8 @@ function App() {
     <p>info</p>
   </div>
 </div>
+
+<footer>footer</footer>
     </>
   )
 }

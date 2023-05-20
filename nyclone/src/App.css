@@ -44,3 +44,7 @@
 .puzzles {
   padding-inline:40px;
 }
+footer {
+  background-color: rgb(18, 18, 18);
+  color:white
+}
